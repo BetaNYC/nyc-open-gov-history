@@ -1,3 +1,8 @@
+This document is helping us create a timeline of open data and open governement events in NYC.
+
+
+
+-=-=- original read me -=-=-
 Presentation and accompanying materials for OSCON 2012 presentation
 "US Government v. Open Source: A History and Lessons Learned", with
 Gunnar Hellekson (Red Hat) and Karl Fogel (Open Tech Strategies).
@@ -25,3 +30,4 @@ Analytics tracker in the footer of the HTML file. That will (presumably) help
 us understand where the code is being used. If you don't like it, feel free
 to delete it!
 
+-=-=- / end original read me -=-=-
