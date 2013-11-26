@@ -20,6 +20,7 @@ Analytics tracker in the footer of the HTML file. That will (presumably) help
 us understand where the code is being used. If you don't like it, feel free
 to delete it!
 
+-=-=- / new read me -=-=- 
 
 -=-=- original read me -=-=-
 Presentation and accompanying materials for OSCON 2012 presentation
